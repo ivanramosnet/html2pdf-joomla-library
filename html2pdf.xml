@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade" version="3.9">
+	<name>Html2Pdf Library for Joomla</name>
+	<libraryname>html2pdf</libraryname>
+	<author>Iván Ramos Jiménez</author>
+	<creationDate>May 2023</creationDate>
+	<copyright>Copyright (C) 2023</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>info@ivan.ramos.name</authorEmail>
+	<authorUrl>ivan.ramos.name</authorUrl>
+	<version>1.0.0</version>
+	<files>
+        <file>html2pdf.php</file>
+		<folder>vendor</folder>
+	</files>
+</extension>
